@@ -6,7 +6,7 @@ Create a Selenium script to
 4. Add products with a price of less than 1000 to the cart.
 5. Navigate to the "View Cart" page and take a screenshot.
 
-   By Ahmed Youssef
+   By Eng/Ahmed Youssef
 
 
 Configuration:
